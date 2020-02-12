@@ -1,0 +1,58 @@
+{
+  "directory": [
+    {
+      "number": 1,
+      "name": "ATM Bank BCA Gallery",
+      "level": 3,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 2,
+      "name": "Bank Mandiri",
+      "level": 3,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 3,
+      "name": "BNI Bank",
+      "level": 4,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 4,
+      "name": "ATM Bank Danamon Gallery",
+      "level": 5,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 5,
+      "name": "CIMB Niaga Digital Lounge",
+      "level": 5,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 6,
+      "name": "ATM Bank BRI",
+      "level": 6,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 7,
+      "name": "ATM Bank Panin",
+      "level": 6,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 8,
+      "name": "ATM OCBC",
+      "level": 6,
+      "type": "Banking & Money Changer"
+    },
+    {
+      "number": 9,
+      "name": "ATM Permata Bank",
+      "level": 6,
+      "type": "Banking & Money Changer"
+    },
+  ]
+}
